@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ManiaQwy
-- programista
-- robie losowe gry w js
+- Hi, I’m @ManiaQwy. I create basic games and entertainment using JS/CSS/HTML (sometimes C++)
 
 <!---
 ManiaQwy/ManiaQwy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,3 @@
-- Hi, I’m @ManiaQwy. I create basic games and entertainment using JS/CSS/HTML (sometimes C++)
+- Hi, My name is Bartosz Molendowski. I am an aspiring young fullstack developer with experience in React (Next.js), C++, Wordpress and Javascript overall. I also enjoy Creating small projects in Python using a plethora of different libraries (MatPlotLib, Ktinker, OpenCV2, GenAI, for Example).
 
-<!---
-ManiaQwy/ManiaQwy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
